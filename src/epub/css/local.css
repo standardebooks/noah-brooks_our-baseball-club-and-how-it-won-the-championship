@@ -10,18 +10,27 @@ footer{
 	font-variant: small-caps;
 }
 
-.batting-order{
-	margin: 1em auto;
-	text-align: left;
-	border-spacing: 2em 0;
+ul{
+	list-style: none;
+	padding-left: 0;
 }
 
-.batting-order > thead > tr > th{
-	font-style: italic;
-	font-weight: normal;
+#chapter-2 > div,
+#chapter-4 > div,
+#chapter-11 > div{
+	margin: 1em;
 	text-align: center;
 }
 
-.batting-order .player-name{
-	font-variant: small-caps;
+#chapter-2 > div > div,
+#chapter-4 > div > ul,
+#chapter-11 > div > div{
+	display: inline-block;
+	margin: 0 1em;
+	text-align: left;
+}
+
+#chapter-2 > div > div > header,
+#chapter-11 > div > div > header{
+	font-style: italic;
 }
