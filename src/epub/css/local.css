@@ -9,3 +9,15 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+.batting-order{
+	margin: 1em auto;
+	text-align: left;
+	border-spacing: 2em 0;
+}
+
+.batting-order > thead > th{
+	font-style: italic;
+	font-weight: normal;
+	text-align: center;
+}
