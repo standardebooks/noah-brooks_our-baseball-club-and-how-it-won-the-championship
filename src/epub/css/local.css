@@ -22,6 +22,6 @@ footer{
 	text-align: center;
 }
 
-.batting-order span[epub|type~="z3998:personal-name"]{
+.batting-order .player-name{
 	font-variant: small-caps;
 }
