@@ -13,8 +13,6 @@ footer{
 }
 
 [epub|type~="z3998:sender"],
-[epub|type~="z3998:recipient"],
-[epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
@@ -92,10 +90,6 @@ figcaption{
 	font-style: italic;
 	margin: 1em;
 	text-align: center;
-}
-
-figcaption p + p{
-	text-indent: 0;
 }
 /* end figures */
 
