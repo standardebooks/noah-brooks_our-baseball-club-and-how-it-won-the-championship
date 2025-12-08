@@ -50,10 +50,15 @@ blockquote[epub|type~="z3998:article"] > div{
 	margin: 1em;
 }
 
-table{
+div > table{
 	margin: 1em auto;
 	text-align: right;
 	font-variant-numeric: tabular-nums;
+}
+
+div > table:last-of-type{
+	margin: 0 1em;
+	text-align: center;
 }
 
 table td:first-child,
