@@ -36,7 +36,7 @@ ul{
 #chapter-11 > div > div{
 	display: inline-block;
 	margin: 0 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 #chapter-2 > div > div > header,
@@ -53,6 +53,7 @@ blockquote[epub|type~="z3998:article"] > div{
 table{
 	margin: 1em auto;
 	text-align: right;
+	font-variant-numeric: tabular-nums;
 }
 
 table td:first-child,
