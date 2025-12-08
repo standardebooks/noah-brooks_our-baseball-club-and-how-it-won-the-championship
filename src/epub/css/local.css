@@ -19,6 +19,7 @@ footer{
 	font-variant: small-caps;
 }
 
+/* player batting orders */
 ul{
 	list-style: none;
 	padding-left: 0;
@@ -45,11 +46,13 @@ ul{
 	font-variant: normal;
 	margin: 0;
 }
+/* end batting orders */
 
 blockquote[epub|type~="z3998:article"] > div{
 	margin: 1em;
 }
 
+/* Box score tables */
 div > table{
 	margin: 1em auto;
 	text-align: right;
@@ -69,3 +72,4 @@ table th:first-child {
 .telegram{
 	font-variant: all-small-caps;
 }
+/* end box score tables */
