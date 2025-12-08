@@ -46,7 +46,7 @@ ul{
 	margin: 0;
 }
 
-blockquote[epub|type~="article"] > div{
+blockquote[epub|type~="z3998:article"] > div{
 	margin: 1em;
 }
 
