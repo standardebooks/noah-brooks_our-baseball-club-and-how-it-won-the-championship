@@ -66,11 +66,11 @@ table td:first-child,
 table th:first-child{
 	text-align: initial;
 }
+/* end box score tables */
 
 .telegram{
 	font-variant: all-small-caps;
 }
-/* end box score tables */
 
 /* figures */
 figure{
