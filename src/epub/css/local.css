@@ -52,9 +52,9 @@ blockquote[epub|type~="z3998:article"] > div{
 
 /* Box score tables */
 div > table{
+	font-variant-numeric: tabular-nums;
 	margin: 1em auto;
 	text-align: right;
-	font-variant-numeric: tabular-nums;
 }
 
 div > table:nth-of-type(2){
@@ -63,8 +63,8 @@ div > table:nth-of-type(2){
 }
 
 table td:first-child,
-table th:first-child {
-  text-align: initial;
+table th:first-child{
+	text-align: initial;
 }
 
 .telegram{
