@@ -56,7 +56,7 @@
 		<meta property="se:name.person.full-name" refines="#editor">Albert Goodwill Spalding</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Albert_Spalding</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n84216253</meta>
-		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Henry Sandham</dc:contributor>
 		<meta property="file-as" refines="#artist">Sandham, Henry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Sandham</meta>
