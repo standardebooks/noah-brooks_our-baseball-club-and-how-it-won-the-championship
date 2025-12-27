@@ -59,6 +59,9 @@
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Henry Sandham</dc:contributor>
 		<meta property="file-as" refines="#artist">Sandham, Henry</meta>
+		<dc:contributor id="illustrator-1">E. P. Dutton and Company</dc:contributor>
+		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
+		<meta property="display-seq" refines="#illustrator-1">0</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Sandham</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87118624</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
