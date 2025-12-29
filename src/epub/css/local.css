@@ -50,16 +50,19 @@ ul{
 table{
 	font-variant-numeric: tabular-nums;
 	margin: 1em auto;
+}
+
+td{
 	text-align: right;
+}
+
+th{
+	font-weight:normal;
+	text-align: initial;
 }
 
 #chapter-7 > blockquote > table ~ p:last-of-type{
 	margin: 1em;
-}
-
-table td:first-child,
-table th:first-child{
-	text-align: initial;
 }
 /* end box score tables */
 
