@@ -52,19 +52,21 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Noah_Brooks</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50041289</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="editor">Albert G. Spalding</dc:contributor>
+		<dc:contributor id="editor">A. G. Spalding</dc:contributor>
 		<meta property="se:name.person.full-name" refines="#editor">Albert Goodwill Spalding</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Albert_Spalding</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n84216253</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Henry Sandham</dc:contributor>
 		<meta property="file-as" refines="#artist">Sandham, Henry</meta>
-		<dc:contributor id="illustrator-1">E. P. Dutton and Company</dc:contributor>
-		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
-		<meta property="display-seq" refines="#illustrator-1">0</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Sandham</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n87118624</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="illustrator-1">E. P. Dutton and Company</dc:contributor>
+		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
+		<meta property="display-seq" refines="#illustrator-1">0</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator-1">https://en.wikipedia.org/wiki/E._P._Dutton</meta>
+		<meta property="se:url.authority.nacoaf" refines="#illustrator-1">http://id.loc.gov/authorities/names/n88072124</meta>
 		<dc:contributor id="transcriber-1">Graeme Mackreth</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Mackreth, Graeme</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
