@@ -54,7 +54,7 @@ table{
 }
 
 #chapter-7 > blockquote > table ~ p:last-of-type{
-	margin: 1em
+	margin: 1em;
 }
 
 table td:first-child,
