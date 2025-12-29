@@ -79,13 +79,6 @@ figure img{
 	max-height: 100vh;
 	max-width: 100%;
 }
-
-figcaption{
-	font-size: smaller;
-	font-style: italic;
-	margin: 1em;
-	text-align: center;
-}
 /* end figures */
 
 #chapter-17 > blockquote:last-of-type{
