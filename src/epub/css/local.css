@@ -46,20 +46,11 @@ ul{
 }
 /* end batting orders */
 
-blockquote[epub|type~="z3998:article"] > div{
-	margin: 1em;
-}
-
 /* Box score tables */
-div > table{
+table{
 	font-variant-numeric: tabular-nums;
 	margin: 1em auto;
 	text-align: right;
-}
-
-div > table:nth-of-type(2){
-	margin: 0 1em;
-	text-align: center;
 }
 
 table td:first-child,
