@@ -53,6 +53,10 @@ table{
 	text-align: right;
 }
 
+#chapter-7 > blockquote > table ~ p:last-of-type{
+	margin: 1em
+}
+
 table td:first-child,
 table th:first-child{
 	text-align: initial;
