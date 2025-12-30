@@ -4,7 +4,6 @@
 header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
 }
 
 footer{
@@ -52,13 +51,13 @@ table{
 	margin: 1em auto;
 }
 
-td{
-	text-align: right;
-}
-
 th{
 	font-weight: normal;
-	text-align: initial;
+}
+
+td,
+tbody th{
+	text-align: right;
 }
 
 #chapter-7 > blockquote:last-of-type > p:last-of-type{
