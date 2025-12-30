@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/noah-brooks/our-baseball-club-and-how-it-won-the-championship</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-12-30T22:02:02Z</dc:date>
+		<meta property="dcterms:modified">2025-12-30T22:02:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,16 +36,16 @@
 		<meta property="term" refines="#subject-1">sh85012047</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The story of a late-19th century baseball team in Illinois and their journey competing for the championship.</dc:description>
+		<dc:description id="description">A late-19th century Illinois baseball team journeys to compete for the championship.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In the rural Illinois town of Catalpa in the late 19th century, the burgeoning new national pastime of baseball has become the defining phenomenon of the local culture. Due to the growing popularity of the sport, the wealthy and influential among the residents of Catalpa sponsor their local team in an effort to elevate them to compete against some of the most successful and famous teams of the state, including by paying out-of-town talent princely sums of money to play for their club against the best teams in the state to win a championship—a shocking and slightly scandalous move that would reflect almost prophetically the modern 21st-century professional sports landscape.&lt;/p&gt;
-			&lt;p&gt;Understood to be the first novel ever written primarily about the game of baseball and published within a decade of the founding of the National League, &lt;i&gt;Our Baseball Club and How It Won the Championship&lt;/i&gt; offers a fascinating look at the earliest form of the sport that continues to be played around the world today. &lt;a href="https://standardebooks.org/ebooks/noah-brooks"&gt;Noah Brooks&lt;/a&gt;, a journalist best known as one of the earliest biographers of Abraham Lincoln tells what is ostensibly a fictional tale for children, but the book functions today as a firsthand account of the game’s foundational years and provides a useful point of reference for tracking the evolution of the game from its inception to the present day.&lt;/p&gt;
+			&lt;p&gt;The time is the late 19th century. In the rural Illinois town of Catalpa, the burgeoning new national pastime of baseball has become the defining phenomenon of the local culture. Due to the sport’s growing popularity, the wealthy and influential among the residents of Catalpa sponsor their local team to compete against some of the most successful and famous teams of the state, even going so far as to pay out-of-town talent princely sums to play for Catalpa against the best teams in the state—a shocking and scandalous move that seems almost prophetic when viewed from the modern 21st-century professional sports landscape.&lt;/p&gt;
+			&lt;p&gt;Understood to be the first novel ever written primarily about the game of baseball and published within a decade of the founding of the National League, &lt;i&gt;Our Baseball Club and How It Won the Championship&lt;/i&gt; offers a fascinating look at the earliest form of the sport that continues to be played around the world today. &lt;a href="https://standardebooks.org/ebooks/noah-brooks"&gt;Noah Brooks&lt;/a&gt;, a journalist best known as one of the earliest biographers of Abraham Lincoln, tells what is ostensibly a fictional tale for children; but today the book functions as a firsthand account of the game’s foundational years, and provides a useful point of reference for tracking the evolution of the game, from its inception to the present day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59645</dc:source>
 		<dc:source>https://archive.org/details/ourbaseballclubh00broo/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48104</meta>
+		<meta property="se:reading-ease.flesch">66.27</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/noah-brooks_our-baseball-club-and-how-it-won-the-championship</meta>
 		<dc:creator id="author">Noah Brooks</dc:creator>
 		<meta property="file-as" refines="#author">Brooks, Noah</meta>
@@ -83,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
