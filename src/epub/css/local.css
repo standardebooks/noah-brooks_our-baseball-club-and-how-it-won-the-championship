@@ -61,7 +61,7 @@ th{
 	text-align: initial;
 }
 
-#chapter-7 > blockquote > table ~ p:last-of-type{
+#chapter-7 > blockquote:last-of-type > p:last-of-type{
 	margin: 1em;
 }
 /* end box score tables */
