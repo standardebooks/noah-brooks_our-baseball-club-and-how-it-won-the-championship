@@ -64,7 +64,6 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="illustrator-1">E. P. Dutton and Company</dc:contributor>
 		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
-		<meta property="display-seq" refines="#illustrator-1">0</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator-1">https://en.wikipedia.org/wiki/E._P._Dutton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#illustrator-1">http://id.loc.gov/authorities/names/n88072124</meta>
 		<dc:contributor id="transcriber-1">Graeme Mackreth</dc:contributor>
